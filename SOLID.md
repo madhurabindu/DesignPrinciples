@@ -70,23 +70,6 @@ The implication of this principle is quite simple. Every dependency in the desig
 
 Object Creation. One of the most common places that designs depend upon concrete classes is when those designs create instances. By definition, you cannot create instances of abstract classes. Thus, to create an instance, you must depend upon a concrete class. However, there is an elegant solution to this problem named ABSTRACTFACTORY.
 
-# Component Principles
-### Cohesion Principles
-  - (REP) The Release Reuse Equivalence Principle: The granule of reuse is the granule of release.
-  
-  - (CCP) The Common Closure Principle: Classes that change together, belong together.
-  
-  - (CRP) The Common Reuse Principle: Classes that aren’t reused together should not be grouped together
-  
-These three principles are mutually exclusive. They cannot simultaneously be satis- fied. That is because each principle benefits a different group of people. The REP and CRP makes life easy for reusers, whereas the CCP makes life easier for maintainers. The CCP strives to make packages as large as possible (after all, if all the classes live in just one package, then only one package will ever change). The CRP, however, tries to make packages very small.
-
-### Coupling Principles
-  - (ADP) The Acyclic Dependencies Principle: The dependencies betwen packages must not form cycles.
-  - 
-  - (SDP) The Stable Dependencies Principle: Depend in the direction of stability.
-  - 
-  - (SAP) The Stable Abstractions Principle: Stable packages should be abstract packages.
-
 ## Resources
 - https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf
 - https://www.baeldung.com/solid-principles
