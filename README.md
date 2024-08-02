@@ -5,13 +5,13 @@ Design principles are fundamental guidelines that help software developers creat
 
 ---
 Following are various design principles, each representing a distinct approach to crafting effective and maintainable software
-1. [SOLID](./SOLID.md)
-2. DRY (Don't Repeat Yourself)
-3. KISS (Keep It Simple, Stupid)
-4. YAGNI (You Aren't Gonna Need It)
-5. Separation of Concerns
-6. Encapsulation
-7. Composition over Inheritance
+1. [SOLID](./all/SOLID.md)
+2. [DRY](./all/DRY.MD) 
+3. [KISS](./all/KISS.MD)
+4. [YAGNI](./all/YAGNI.MD)
+5. [Separation of Concerns](./all/SOC.MD)
+6. [Encapsulation](./all/enc.MD)
+7. [Composition over Inheritance](./all/coveri.MD)
 
 ---
 While these principles are often complementary, they can sometimes be contradictory; developers must carefully evaluate the specific needs, constraints, and goals of their projects to determine when and how to apply each principle effectively.  
