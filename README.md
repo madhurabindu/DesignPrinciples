@@ -1,5 +1,5 @@
 # DesignPrinciples
-![](./pic.jpg)
+![](./all/pic.jpg)
 
 Design principles are fundamental guidelines that help software developers create robust, maintainable, and flexible systems. They focus on structuring code to minimize dependencies, enhance readability, and ensure that components are reusable and adaptable to change. 
 
