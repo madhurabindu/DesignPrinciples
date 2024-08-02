@@ -71,5 +71,5 @@ The implication of this principle is quite simple. Every dependency in the desig
 Object Creation. One of the most common places that designs depend upon concrete classes is when those designs create instances. By definition, you cannot create instances of abstract classes. Thus, to create an instance, you must depend upon a concrete class. However, there is an elegant solution to this problem named ABSTRACTFACTORY.
 
 ## Resources
-- https://www.baeldung.com/solid-principles
-- https://www.oodesign.com/single-responsibility-principle.html
+- [https://www.baeldung.com/solid-principles](https://www.baeldung.com/solid-principles)
+- [https://www.oodesign.com/single-responsibility-principle.html](https://www.oodesign.com/design-principles/)
