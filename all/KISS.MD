@@ -23,6 +23,7 @@ Strive for simplicity without compromising
 - efficiency: do not create inefficient code for the sake of simple code
 
 Example of how to Implement the principle
+
 [Refer here](https://www.softwaretree.com/v1/products/jdxa/jdxa-pdf/KISSPrinciples.pdf)
 
 ## Resources
