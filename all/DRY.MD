@@ -1,4 +1,4 @@
-# DRY - **D**ont **R**epeat **Y**ourself
+# DRY - Dont Repeat Yourself
 
 ## Overview
 ### Problem statement
