@@ -42,4 +42,4 @@ MS near duplicate code detector
 
 ## Resources
 [https://martinfowler.dev.org.tw/ieeeSoftware/repetition.pdf](https://martinfowler.dev.org.tw/ieeeSoftware/repetition.pdf)
-[Basic Design Principles](https://aic-atlas.s3.eu-north-1.amazonaws.com/projects/e7299991-eb2b-4764-a849-4909e01fb07d/documents/Tm74R7Rbi6dKsN4FeEWaUEidvUMcg9Wa3HfyrBrr.pdf)
+[https://aic-atlas.s3.eu-north-1.amazonaws.com/projects/e7299991-eb2b-4764-a849-4909e01fb07d/documents/Tm74R7Rbi6dKsN4FeEWaUEidvUMcg9Wa3HfyrBrr.pdf](Basic Design Principles)
