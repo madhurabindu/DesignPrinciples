@@ -31,7 +31,7 @@ Let's go back to what Andy and Dave said in The Pragmatic Programmer: “Every p
 By writing DRY definitions for key business logic and metrics that are referenced throughout codebase, one can create those single, unambiguous, and authoritative representations. Gone are the days of 15 different definitions and values for churn, and in are the days of standardization and DRYness.
 
 ## Implementing DRY
-[https://www.plutora.com/blog/understanding-the-dry-dont-repeat-yourself-principle](https://www.plutora.com/blog/understanding-the-dry-dont-repeat-yourself-principle)
+[Refer this](https://www.plutora.com/blog/understanding-the-dry-dont-repeat-yourself-principle)
 
 ## Tools
 Based on the language of choice there are many tools available to check duplicate code
@@ -42,3 +42,4 @@ MS near duplicate code detector
 
 ## Resources
 [https://martinfowler.dev.org.tw/ieeeSoftware/repetition.pdf](https://martinfowler.dev.org.tw/ieeeSoftware/repetition.pdf)
+[Basic Design Principles](https://aic-atlas.s3.eu-north-1.amazonaws.com/projects/e7299991-eb2b-4764-a849-4909e01fb07d/documents/Tm74R7Rbi6dKsN4FeEWaUEidvUMcg9Wa3HfyrBrr.pdf)
