@@ -14,7 +14,7 @@ Following are various design principles, each representing a distinct approach t
 7. [Composition over Inheritance](./all/coveri.MD)
 
 ---
-While these principles are often complementary, they can sometimes be contradictory; developers must carefully evaluate the specific needs, constraints, and goals of their projects to determine when and how to apply each principle effectively.  
+While these principles are often complementary, they can sometimes be **contradictory**; developers must carefully evaluate the specific needs, constraints, and goals of their projects to determine when and how to apply each principle effectively.  
 
 
 1. **Single Responsibility Principle (SRP) vs. Composition over Inheritance**
